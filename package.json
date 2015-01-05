@@ -1,10 +1,18 @@
 {
-    "author": "sunil",
+    "author": "sbambaki",
     "name": "listify",
     "version": "0.1.1",
     "description": "Lists the extensions",
     "main": "svlist",
     "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sbambaki/fsenhance"
+    },
+    "keywords": [
+        "listify",
+        "files"
+    ],
     "engines": {
         "node": "*"
     }
