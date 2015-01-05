@@ -25,6 +25,7 @@ function listify(ar){
 		 
 		
 	}	
+	 return results;
 };
 
 
