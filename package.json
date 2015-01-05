@@ -1,0 +1,11 @@
+{
+    "author": "sunil",
+    "name": "listify",
+    "version": "0.1.1",
+    "description": "Lists the extensions",
+    "main": "svlist",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
